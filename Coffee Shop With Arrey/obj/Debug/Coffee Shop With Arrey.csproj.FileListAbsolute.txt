@@ -1,0 +1,9 @@
+I:\BITM\Project\Batch-7\Coffee Shop With Arrey\Coffee Shop With Arrey\bin\Debug\Coffee Shop With Arrey.exe.config
+I:\BITM\Project\Batch-7\Coffee Shop With Arrey\Coffee Shop With Arrey\bin\Debug\Coffee Shop With Arrey.exe
+I:\BITM\Project\Batch-7\Coffee Shop With Arrey\Coffee Shop With Arrey\bin\Debug\Coffee Shop With Arrey.pdb
+I:\BITM\Project\Batch-7\Coffee Shop With Arrey\Coffee Shop With Arrey\obj\Debug\Coffee Shop With Arrey.csprojResolveAssemblyReference.cache
+I:\BITM\Project\Batch-7\Coffee Shop With Arrey\Coffee Shop With Arrey\obj\Debug\Coffee_Shop_With_Arrey.Home_UI.resources
+I:\BITM\Project\Batch-7\Coffee Shop With Arrey\Coffee Shop With Arrey\obj\Debug\Coffee_Shop_With_Arrey.Properties.Resources.resources
+I:\BITM\Project\Batch-7\Coffee Shop With Arrey\Coffee Shop With Arrey\obj\Debug\Coffee Shop With Arrey.csproj.GenerateResource.Cache
+I:\BITM\Project\Batch-7\Coffee Shop With Arrey\Coffee Shop With Arrey\obj\Debug\Coffee Shop With Arrey.exe
+I:\BITM\Project\Batch-7\Coffee Shop With Arrey\Coffee Shop With Arrey\obj\Debug\Coffee Shop With Arrey.pdb
